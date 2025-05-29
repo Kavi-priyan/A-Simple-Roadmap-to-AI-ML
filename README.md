@@ -154,7 +154,7 @@ To provide a **clear, structured, and actionable** roadmap to mastering AI & ML 
 
 ## 👨‍🎓 About Me
 
-Hi! I'm an **AIML student **, passionate about building intelligent systems that solve real-world problems. This roadmap is a reflection of my own learning path and what I wish I had when I started.
+Hi! I'm an AIML student , passionate about building intelligent systems that solve real-world problems. This roadmap is a reflection of my own learning path and what I wish I had when I started.
 
 Feel free to fork, star ⭐, or contribute!
 
