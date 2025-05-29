@@ -163,7 +163,7 @@ Feel free to fork, star ⭐, or contribute!
 ## 📫 Connect
 
 * LinkedIn: \[Kavi Priyan]
-* GitHub: \[https://github.com/Kavi-priyan]
+* GitHub: \[[https://github.com/Kavi-priyan](https://github.com/Kavi-priyan)]
 * Email: [rkavipriyan11@gmail.com)
 
 ---
