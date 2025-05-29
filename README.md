@@ -2,6 +2,8 @@
 
 Welcome to the **Artificial Intelligence & Machine Learning Roadmap**!
 
+##Thoughts
+As an AI & ML student, I often felt overwhelmed by scattered resources and unclear learning paths. I created this roadmap to simplify the journey for others—offering clarity, structure, and confidence. It’s the guide I wish I had when I started, shaped by real struggles and breakthroughs.
 This guide is designed to help you navigate the core concepts, tools, and skills required to become proficient in **AI** and **Machine Learning** — whether you're a beginner or looking to reinforce your fundamentals.
 
 ---
