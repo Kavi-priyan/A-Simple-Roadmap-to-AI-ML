@@ -1,4 +1,4 @@
-# A Simple Roadmap to AI-ML By a  AI & ML Student
+# A Simple Roadmap to AI-ML By an AI & ML Student
 
 Welcome to the **Artificial Intelligence & Machine Learning Roadmap**!
 
